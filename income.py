@@ -4,6 +4,7 @@
 # tax_payable = 0
 # print("Given income", income)
 
+Thank you for the Support
 # if income <= 10000:
 #     tax_payable = 0
 # elif income <= 20000:
